@@ -11,8 +11,8 @@
 	<groupId>ru.brontoder</groupId>
 	<artifactId>async-job-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>async-job-service</name>
+	<description>Asynchronous job execution service</description>
 	<url/>
 	<licenses>
 		<license/>
