@@ -1,3 +1,13 @@
 spring:
   application:
     name: async-job-service
+  datasource:
+    url: jdbc:postgresql://localhost:5433/asyncjob
+    username: asyncjob
+    password: asyncjob
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+  flyway:
+    enabled: true
